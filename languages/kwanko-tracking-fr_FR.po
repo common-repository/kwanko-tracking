@@ -1,0 +1,240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Kwanko - Tracking Tags for Advertisers\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-24 15:56+0000\n"
+"PO-Revision-Date: 2020-01-24 15:57+0000\n"
+"Last-Translator: michael <michael.liogier@kwanko.com>\n"
+"Language-Team: Français\n"
+"Language: fr_FR\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.5"
+
+#: admin/class-kwanko-tracking-admin.php:100
+msgid "Settings"
+msgstr "Réglages"
+
+#. Name of the plugin
+#: admin/class-kwanko-tracking-admin.php:116 admin/class-kwanko-tracking-admin.php:117
+msgid "Kwanko - Tracking Tags for Advertisers"
+msgstr "Kwanko - Tags de Tracking pour les Annonceurs"
+
+#: admin/class-kwanko-tracking-admin.php:165
+msgid ""
+"This plugin can not work without WooCommerce and WooCommerce is not "
+"activated !"
+msgstr ""
+"Ce plugin ne peut pas fonctionner sans WooCommerce et WooCommerce n'est pas "
+"activé !"
+
+#: admin/class-kwanko-tracking-admin.php:186
+msgid "You need to upload the UniJS file."
+msgstr "Vous devez fournir le fichier javascript UniJS."
+
+#: admin/class-kwanko-tracking-admin.php:195
+msgid "The MCLIC can not be empty."
+msgstr "Le MCLIC ne peut pas être vide."
+
+#: admin/class-kwanko-tracking-admin.php:200
+msgid "The MCLIC is not valid."
+msgstr "Le MCLIC n'est pas valide."
+
+#: admin/class-kwanko-tracking-admin.php:205
+msgid "The MCLIC for the new customers is not valid."
+msgstr "Le MCLIC pour les nouveaux clients n'est pas valide."
+
+#: admin/class-kwanko-tracking-admin.php:210
+msgid "The type of product ID is not valid."
+msgstr "Le type d'ID de produit n'est pas valide."
+
+#: admin/class-kwanko-tracking-admin.php:228 admin/class-kwanko-tracking-admin.php:238
+msgid "Could not upload the UniJS file."
+msgstr "Le fichier UniJS n'a pas pu être téléchargé."
+
+#: admin/class-kwanko-tracking-admin.php:233
+msgid "The UniJS file must be a javascript file."
+msgstr "Le fichier UniJS doit être un fichier javascript."
+
+#: admin/class-kwanko-tracking-admin.php:260
+msgid "The settings could not be saved."
+msgstr "Les paramètres n'ont pas pu être enregistrés."
+
+#: admin/class-kwanko-tracking-admin.php:264
+msgid "Settings updated"
+msgstr "Les paramètres ont été mis à jour."
+
+#: admin/class-kwanko-tracking-admin.php:286
+msgid "Could not read the UniJS file from its public url"
+msgstr "Lecture du fichier UniJS impossible à partir de son url publique"
+
+#: admin/class-kwanko-tracking-admin.php:321
+msgid "Could not parse UniJS file content"
+msgstr "Le contenu du fichier UniJS n'a pas pu être parsé"
+
+#: admin/class-kwanko-tracking-admin.php:321
+msgid "Are you sure it is the right file ?"
+msgstr "Etes vous sûr qu'il s'agit du bon fichier ?"
+
+#: admin/class-kwanko-tracking-admin.php:347
+msgid "UniJS File Upload"
+msgstr "Mise en ligne du fichier UniJS"
+
+#: admin/class-kwanko-tracking-admin.php:359
+msgid "OR"
+msgstr "OU"
+
+#: admin/class-kwanko-tracking-admin.php:359
+msgid "UniJS File URL"
+msgstr "URL du fichier UniJS"
+
+#: admin/class-kwanko-tracking-admin.php:379
+msgid "MCLIC"
+msgstr "MCLIC"
+
+#: admin/class-kwanko-tracking-admin.php:391
+msgid "MCLIC for new customers"
+msgstr "MCLIC pour les nouveaux clients"
+
+#: admin/class-kwanko-tracking-admin.php:411
+msgid "Enable CPA retargeting"
+msgstr "Activer le retargeting CPA"
+
+#: admin/class-kwanko-tracking-admin.php:423
+msgid "Enable email retargeting"
+msgstr "Activer l'email retargeting"
+
+#: admin/class-kwanko-tracking-admin.php:435
+msgid "Enable latest version of the trackers"
+msgstr "Activer la dernière version des traqueurs"
+
+#: admin/class-kwanko-tracking-admin.php:455
+msgid "Type of product ID"
+msgstr "Type d'ID de produit"
+
+#: admin/class-kwanko-tracking-admin.php:475
+msgid "You need to upload the UniJS file provided by kwanko."
+msgstr "Vous devez mettre en ligne le fichier UniJS fourni par kwanko."
+
+#: admin/class-kwanko-tracking-admin.php:477
+msgid "You have already uploaded the UniJS file to"
+msgstr "Vous avez déjà téléchargé le fichier UniJS vers"
+
+#: admin/class-kwanko-tracking-admin.php:479
+msgid "You can update it if you want."
+msgstr "Vous pouvez le mettre à jour si vous voulez."
+
+#: admin/class-kwanko-tracking-admin.php:494
+msgid ""
+"Set this URL to use a UniJS file you have manually uploaded on your server "
+"or cdn."
+msgstr ""
+"Renseignez cette URL pour utiliser un fichier UniJS que vous avez "
+"manuellement téléchargé sur votre serveur ou cdn."
+
+#: admin/class-kwanko-tracking-admin.php:495
+msgid "Leave this field empty to use the UniJS file uploaded with this form."
+msgstr ""
+"Laissez ce champ vide pour utiliser le fichier mis en ligne via ce "
+"formulaire."
+
+#: admin/class-kwanko-tracking-admin.php:511 admin/class-kwanko-tracking-admin.php:528
+msgid "Example: G51869F51869F11"
+msgstr "Exemple: G51869F51869F11"
+
+#: admin/class-kwanko-tracking-admin.php:512
+msgid ""
+"The advertising campaign identifier. You can find it in the tracking url as "
+"the mclic query parameter. Example: G51869F51869F11"
+msgstr ""
+"L'identifiant de la campagne publicitaire. Vous pouvez le trouver dans l'URL "
+"de tracking. C'est le paramètre de requête nommé \"mclic\". Exemple: "
+"G51869F51869F11"
+
+#: admin/class-kwanko-tracking-admin.php:529
+msgid ""
+"The advertising campaign identifier for a customer's first purchase. If not "
+"defined, the other MCLIC will be used all the time."
+msgstr ""
+"Identifiant de campagne publicitaire pour le premier achat d'un client. S'il "
+"n'est pas défini, l'autre MCLIC sera utilisé tout le temps."
+
+#: admin/class-kwanko-tracking-admin.php:545
+msgid ""
+"The CPA retargeting trackers are activated when a customer see the homepage, "
+"the category pages, the product page, the basket page and the confirmation "
+"page."
+msgstr ""
+"Les traqueurs pour le retargeting CPA sont activés lorsqu'un client voit la "
+"page d'accueil, les pages de catégorie, la page de produit, la page de "
+"panier et la page de confirmation."
+
+#: admin/class-kwanko-tracking-admin.php:550 admin/class-kwanko-tracking-admin.php:569
+#: admin/class-kwanko-tracking-admin.php:588
+msgid "Enabled"
+msgstr "Activé"
+
+#: admin/class-kwanko-tracking-admin.php:551 admin/class-kwanko-tracking-admin.php:570
+#: admin/class-kwanko-tracking-admin.php:589
+msgid "Disabled"
+msgstr "Désactivé"
+
+#: admin/class-kwanko-tracking-admin.php:564
+msgid ""
+"The email retargeting trackers are activated when a customer see or fill the "
+"registration form."
+msgstr ""
+"Les traqueurs pour l'email retargeting sont activés lorsqu'un client voit ou "
+"remplit le formulaire d'inscription."
+
+#: admin/class-kwanko-tracking-admin.php:583
+msgid ""
+"Must be enabled to ensure the best tracking experience. Talk to your contact "
+"at Kwanko before disabling this option."
+msgstr ""
+"Doit être activé pour assurer la meilleure expérience de tracking. Parlez à "
+"votre contact chez Kwanko avant de désactiver cette option."
+
+#: admin/class-kwanko-tracking-admin.php:602
+msgid ""
+"Type of product ID used in the tracking. If using a SKU, ensure that all "
+"your products have one. If you are not sure, use the product ID."
+msgstr ""
+"Le type d'ID de produit utilisé dans le tracking. Si vous utilisez l'UGS, "
+"assurez vous qu'elle soit remplie pour tous vos produits. Si vous n'êtes pas "
+"sûr, utilisez l'ID du produit."
+
+#: admin/class-kwanko-tracking-admin.php:607
+msgid "Product ID"
+msgstr "ID du produit"
+
+#: admin/class-kwanko-tracking-admin.php:608
+msgid "SKU"
+msgstr "UGS"
+
+#: admin/partials/kwanko-tracking-admin-display.php:38
+msgid "Save Settings"
+msgstr "Sauvegarder"
+
+#. Description of the plugin
+msgid ""
+"WooCommerce plugin that handles the setup of the kwanko tracking tags for "
+"the advertisers."
+msgstr ""
+"Plugin WooCommerce qui gère l'installation des tags de tracking kwanko pour "
+"les annonceurs."
+
+#. URI of the plugin
+msgid "https://www.kwanko.com/"
+msgstr "https://www.kwanko.com/"
+
+#. Author of the plugin
+msgid "Kwanko"
+msgstr "Kwanko"
+
+#. Author URI of the plugin
+msgid "https://www.kwanko.com"
+msgstr "https://www.kwanko.com"
